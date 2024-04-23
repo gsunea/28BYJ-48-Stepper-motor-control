@@ -6,3 +6,4 @@ The implemented methods are:
   3. Half-Step Drive
 
 Tested these methods on a 28BYJ-48 stepper motor with a ULN2003 driver.
+For this motor the minimum delay is 2 ms (If you use the Half-Step Drive it is 1 ms ). 
